@@ -1,3 +1,11 @@
+✨  💫**Hi** 👋, **Sahil Here**
+
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Skilled+at+Python+POWER+BI" alt="Typing SVG" />
+</div>
+
 # 💫 About Me:
 Aspiring data analyst who interested in  developing and maintaining data dashboards using Power BI <br>and Tableau. Leverages SQL, Python, cloud-based data storage and processing, and matching <br>techniques for data analysis and ETL pipeline automation, boosting dashboard refresh efficiency by <br>30% and improving KPI tracking accuracy by 25% while improving data-driven processes and <br>delivering actionable insights.
 
