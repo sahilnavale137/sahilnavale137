@@ -7,7 +7,7 @@
 </div>
 
 # 💫 About Me:
-Aspiring data analyst who interested in  developing and maintaining data dashboards using Power BI <br>and Tableau. Leverages SQL, Python, cloud-based data storage and processing, and matching <br>techniques for data analysis and ETL pipeline automation, boosting dashboard refresh efficiency by <br>30% and improving KPI tracking accuracy by 25% while improving data-driven processes and <br>delivering actionable insights.
+Aspiring data analyst who interested in  developing and maintaining data dashboards using Power BI <br>and Tableau. Leverages SQL, Python, cloud-based data storage and processing, and matching <br>techniques for data analysis and ETL pipeline automation, boosting dashboard refresh efficiency by <br>30% and improving KPI tracking accuracy by 25% while improving data-driven processes and <br>delivering actionable insights..
 
 
 ## 🌐 Socials:
